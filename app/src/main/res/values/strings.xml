@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Morphing</string>
+    <string name="splash_title">Recognize Emotion</string>
+    <string name="splash_content">이 실험에서는, 사람의 6가지 정서(기쁨, 슬픔, 분노, 공포, 혐오 그리고 놀람)로의 표정 변화를 표현한 사진을 보게 될 것입니다. 사진이 나타나면 그 사진이 어떤 정서를 나타내는지를 아래의 6가지 보기에서 선택하십시오. 사진 하나당 선택은 한 번만 할 수 있으며, 다시 선택할 수 없습니다. 그럼 이제 실험을 시작하고 메시지가 나타나면 실험 관리자를 불러주십시오.</string>
+    <string name="create_playlist">의 재생목록이 없어 데이터 저장 폴더에 기본 재생목록을 생성하였습니다.</string>
+    <string name="okey">확인</string>
+    <string name="sir">님</string>
+    <string name="start_test_prefix">안녕하세요, </string>
+    <string name="start_test_suffix">님 검사를 시작하겠습니다</string>
+    <string name="enter_name">이름을 입력하세요.</string>
+    <string name="need_your_name">이름을 입력해야 검사를 진행할수있습니다.</string>
+    <string name="how_to_test">최대한 빨리 정서를 선택하세요</string>
+    <string name="press_play_button">재생버튼을 눌러주세요.</string>
+    <string name="breaktime">이번 실험의 전반부가 모두 종료되었습니다.\n실험 관리자에게 문의하세요.</string>
+    <string name="thank_you">수고하셨습니다.\n실험자에게 문의하세요.</string>
+    <string name="give_up">사용자가 검사를 중에 뒤로가기 버튼을 눌러 검사가 중단 되었습니다.\n지금까지 검사한 내용은 안전하게 저장되었습니다.</string>
+    <string name="practice">연습 검사</string>
+    <string name="mainTrial1">검사 1</string>
+    <string name="mainTrial2">검사 2</string>
+</resources>

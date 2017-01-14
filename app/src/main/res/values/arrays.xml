@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="practice_list">
+        <item>m12h</item>
+        <item>f4sa</item>
+        <item>m11a</item>
+        <item>f2f</item>
+        <item>f8d</item>
+        <item>m8su</item>
+    </string-array>
+    <string-array name="mainTrial_list1">
+        <item>m2h</item>
+        <item>f13f</item>
+        <item>m10su</item>
+        <item>f1d</item>
+        <item>f13sa</item>
+        <item>f2su</item>
+        <item>m4sa</item>
+        <item>m10f</item>
+        <item>m5h</item>
+        <item>f3sa</item>
+        <item>m9f</item>
+        <item>f2h</item>
+        <item>f7a</item>
+        <item>f3d</item>
+        <item>m10a</item>
+        <item>m2a</item>
+        <item>f4f</item>
+        <item>f8h</item>
+        <item>f5a</item>
+        <item>m12su</item>
+        <item>m3h</item>
+        <item>f8a</item>
+        <item>m5d</item>
+        <item>m8sa</item>
+        <item>f7f</item>
+        <item>f9d</item>
+        <item>m12sa</item>
+        <item>f13su</item>
+        <item>m2d</item>
+        <item>f10h</item>
+        <item>m7a</item>
+        <item>m9su</item>
+        <item>f2sa</item>
+        <item>m4f</item>
+        <item>f7su</item>
+        <item>m3d</item>
+    </string-array>
+    <string-array name="mainTrial_list2">
+        <item>f5su</item>
+        <item>m10sa</item>
+        <item>f2a</item>
+        <item>m3sa</item>
+        <item>f9f</item>
+        <item>m11h</item>
+        <item>f7d</item>
+        <item>m7su</item>
+        <item>f5d</item>
+        <item>m4a</item>
+        <item>m2sa</item>
+        <item>f7h</item>
+        <item>m9a</item>
+        <item>f3f</item>
+        <item>m7h</item>
+        <item>f13a</item>
+        <item>f5f</item>
+        <item>m2su</item>
+        <item>f9a</item>
+        <item>m3f</item>
+        <item>f13h</item>
+        <item>m8f</item>
+        <item>f2d</item>
+        <item>m3a</item>
+        <item>f1sa</item>
+        <item>m4d</item>
+        <item>f5h</item>
+        <item>m5su</item>
+        <item>f9sa</item>
+        <item>m9h</item>
+        <item>m10d</item>
+        <item>f8su</item>
+        <item>m2f</item>
+        <item>f10su</item>
+        <item>f5sa</item>
+        <item>m12d</item>
+    </string-array>
+
+</resources>

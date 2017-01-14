@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="mainBackground">#0277BD</color>
+    <color name="mainText">#FAFAFA</color>
+    <color name="buttonText">@android:color/black</color>
+    <color name="selectTestBackground">#01579B</color>
+    <color name="testBackground">@android:color/black</color>
+</resources>
